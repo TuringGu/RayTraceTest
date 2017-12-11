@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\work\vsworkspace\raytracetest\raytracetest\sphere.h(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\vsworkspace\raytracetest\raytracetest\sphere.h(52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\vsworkspace\raytracetest\raytracetest\scene.h(36): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\vsworkspace\raytracetest\raytracetest\scene.h(38): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\vsworkspace\raytracetest\raytracetest\scene.h(43): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\vsworkspace\raytracetest\raytracetest\scene.h(45): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\vsworkspace\raytracetest\raytracetest\main.cpp(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\vsworkspace\raytracetest\raytracetest\main.cpp(56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\vsworkspace\raytracetest\raytracetest\main.cpp(106): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\vsworkspace\raytracetest\raytracetest\main.cpp(112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  RayTraceTest.vcxproj -> D:\work\VSWorkspace\RayTraceTest\Debug\RayTraceTest.exe
